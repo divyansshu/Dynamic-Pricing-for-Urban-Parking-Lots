@@ -78,12 +78,12 @@ Price = Base_Price × (1 + λ×Normalized_Demand) × Vehicle_Weight
 
 ```
 ├── Complete_Dynamic_Pricing_Implementation.ipynb  # Main implementation notebook
-├── Dynamic_Pricing_for_Urban_Parking_Lots (1).ipynb  # Original notebook
-├── dynamic_pricing_implementation.py              # Standalone Python implementation
 ├── dataset.csv                                   # Parking data
 ├── problem statement.pdf                         # Original requirements
-├── comprehensive_pricing_analysis.png            # Analysis visualizations
-├── pricing_results.csv                          # Results output
+├── parking_pricing_analysis.png                  # Analysis visualizations
+├── model_comparison.csv                          # Results output
+|── pathway_streaming_result.csv
+|── comprehensive_pricing_results.csv
 └── README.md                                     # This file
 ```
 
@@ -246,7 +246,6 @@ For questions or issues:
 ## 🎯 Quick Links
 
 - [📓 Complete Implementation Notebook](Complete_Dynamic_Pricing_Implementation.ipynb)
-- [🐍 Standalone Python Script](dynamic_pricing_implementation.py)
 - [📊 Analysis Results](comprehensive_pricing_analysis.png)
 - [📄 Problem Statement](problem%20statement.pdf)
 
