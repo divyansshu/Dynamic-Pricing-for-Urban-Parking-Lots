@@ -81,9 +81,10 @@ Price = Base_Price × (1 + λ×Normalized_Demand) × Vehicle_Weight
 ├── dataset.csv                                   # Parking data
 ├── problem statement.pdf                         # Original requirements
 ├── parking_pricing_analysis.png                  # Analysis visualizations
+|── bokeh Visualitzation.png                      # bokeh visualization output
 ├── model_comparison.csv                          # Results output
-|── pathway_streaming_result.csv
-|── comprehensive_pricing_results.csv
+|── pathway_streaming_result.csv                  # Real time result
+|── comprehensive_pricing_results.csv             # prices result
 └── README.md                                     # This file
 ```
 
