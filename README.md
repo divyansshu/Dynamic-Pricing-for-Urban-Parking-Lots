@@ -246,7 +246,6 @@ For questions or issues:
 ## 🎯 Quick Links
 
 - [📓 Complete Implementation Notebook](Complete_Dynamic_Pricing_Implementation.ipynb)
-- [🐍 Standalone Python Script](dynamic_pricing_implementation.py)
 - [📊 Analysis Results](comprehensive_pricing_analysis.png)
 - [📄 Problem Statement](problem%20statement.pdf)
 
